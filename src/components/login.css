@@ -1,0 +1,13 @@
+*{
+	margin:0;
+	padding:0;
+
+}
+.Login{
+	height:500px;
+	width:400px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}

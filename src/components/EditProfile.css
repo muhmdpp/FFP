@@ -1,0 +1,14 @@
+.container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 250px;
+    margin-top: 10px; */
+}
+.input-items{
+    height: 30px;
+    border-radius: 5px;
+    border: 0.5px sol;
+    text-decoration: none;
+}
